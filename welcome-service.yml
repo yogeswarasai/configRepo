@@ -1,4 +1,4 @@
 msg: "Welcome from Spring Cloud Config!"
 server:
   port: 8789
-
+res: "response got"
