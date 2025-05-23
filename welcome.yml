@@ -1,2 +1,4 @@
 msg:welcome to microservice class
-server.port:8789
+server:
+port: 8081
+
